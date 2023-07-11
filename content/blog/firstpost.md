@@ -3,7 +3,7 @@ title: Kyzar
 description: The first time I went on a large animal call with Kyzar, I was seventeen...
 date: 2023-07-01
 tags:
-  - Dances with Donkeys
+  - dances with donkeys
 ---
 The first time I went on a large animal call with Kyzar, I was seventeen. Once in the truck and headed out, he asked if I’d like a chaw, which I gladly accepted, confident that I was a rough and tough cowboy and a seasoned veteran of tobacco products. He pointed to the dash where a large wad of chewing tobacco sat without any sort of wrapper in the hot sun. He informed me that it was Redman Tobacco, but that he had thrown away the bag because nobody cured tobacco properly anymore and it needed to be aired out and dried a little more before being enjoyed. 
 

@@ -3,7 +3,7 @@ title: Won't You Be My Neighbear?
 description: We have a bear for a neighbor...
 date: 2023-07-04
 tags:
-  - Dances With Donkeys
+  - dances with donkeys
 ---
 We have a bear for a neighbor. Well, actually four bears, a sow and three cubs. Their den is on our property. Well, actually their property from the perspective of a bear. And I certainly wouldn't argue with them even if I disagreed, which I don't. I'm beginning to believe less and less in the concept of ownership, especially concerning land, and concerning bears. In the natural world, occupation is ownership and I think I prefer that concept. It allows us to own more through owning less.
 
