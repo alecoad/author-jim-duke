@@ -1,6 +1,6 @@
 ---
 title: Won't You Be My Neighbear?
-description: This is a post on My Blog about leveraging agile frameworks.
+description: We have a bear for a neighbor...
 date: 2023-07-04
 tags:
   - Dances With Donkeys
