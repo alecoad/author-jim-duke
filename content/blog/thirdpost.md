@@ -1,45 +1,18 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+title: Badass of Burrofest
+description: Is it possible to get kicked out of a Burrofest for being a jackass?
+date: 2023-07-10
 tags:
-  - second tag
-  - posts with two tags
+  - dances with donkeys
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Is it possible to get kicked out of a Burrofest for being a jackass? I think that’s what happened to me last week in Mancos. I’m really not sure why I got kicked out, but prefer to think that it was because I was being a bad-ass of some sort. I was told I had to leave for liability reasons. It’s a little hard to believe that at seventy years old, and while peacefully sitting on my ass, I was still the greatest liability in town. Pretty good braggin’ rights when, even in Mancos “Where the West Still Lives”, and even during burrofest, surrounded by unruly asses, I was still the most dangerous hombre in town.
 
-## Code
+And all of this right when I was starting to feel down on myself for getting old It’s difficult to maintain a hard earned wild and rowdy reputation when you can’t stay up after dark. What’s even worse is that as we grow older, we seem to slowly become invisible. Just as I was about to completely fade out of sight, someone not only saw me, but recognized me to be the bad-ass I really am! Suddenly, I went from being a harmless old man to being a dangerous contender! 
 
-### Styled (with Syntax)
+I never have minded getting kicked out of places. I’ve been kicked out of most of my favorite bars at some time or another, usually in the company of a favorite mule or donkey. The only times it’s been a nuisance is when they ask me to leave and invite my mule to stay. That leaves me hanging around outside waiting for my ride home. Other than that, I’ve never taken offense to being told to get my ass out of town and have always considered it an acceptable cost of my battle against gentrification. But I usually at least know why I’m being kicked out. I’d also heard that one of the contestants had diagnosed my burro, Lucky, with Pidgeon Fever. A quick look online and a discussion with my vet completely discounted that possibility. Lucky had a slight rub mark from a saddle, but nothing that could reasonably be confused with Pidgeon Fever. I want this to be about me instead of Lucky because I’m more sensitive to insults about her and because “I am a bad ass” delivers better than “I have a bad ass”.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Having always had some of the nicest burros and mules around, I’ve often encountered ass-envy in my travels. While I’ve no doubt that I was out of line riding around with the contestants when I wasn’t entered and such, I can’t help but suspect there was a little ass-envy going on. Even though I wasn’t entered, I had received permission to bring Lucky to Town to launch the sales of my new book Dances With Donkeys at the perfect venue. Unfortunately, my books arrived too late for the Burrofest, which was probably for the best as it would have been embarrassing to get kicked out of my own book signing. But I didn’t think I’d lost my invitation and, after having been a contestant in the past and having volunteered Lucky to pull the vendor wagon for soft drinks last year, I thought I probably had a little burro-cred. Maybe not. 
 
-```js
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+Meanwhile, I’d like to thank the Mancos Creative District for elevating my status, at least in my own mind, from an innocuous old man to the baddest ass left in the wild west! And this without even trying to be bad! I might still have a bright future as a dark outlaw. 
 
-// Test with a line break above this line.
-console.log('Test');
-```
-
-### Unstyled
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-```
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+The Creative District members are all my friends and I hope they will accept this with the same humor with which it’s delivered. And to whoever I might have offended during Burrofest, I’d like to offer my most sincere apologies and an invitation to kiss my burro anytime they want.
