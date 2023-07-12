@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-<img src="../img/blossom-beer.jpg" alt="Cowboy giving donkey a beer" width="100%"/>
+{% image "./blossom-beer.jpg", "cowboy giving beer to mule" %}
 
 Dropping out of high school to pursue his cowboy dreams, Duke eventually bull-shitted his way into the University of Wyoming and University of Texas before finally receiving a BS in Zoology and an MS in Range Ecology from Colorado State University. Having designed his life around critters, Duke has worked on farms and ranches as well as dude ranches and hunting camps off and on since his early teenage years.
 
