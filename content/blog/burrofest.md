@@ -2,8 +2,6 @@
 title: Badass of Burrofest
 description: Is it possible to get kicked out of a Burrofest for being a jackass?
 date: 2023-07-10
-tags:
-  - dances with donkeys
 ---
 Is it possible to get kicked out of a Burrofest for being a jackass? I think that’s what happened to me last week in Mancos. I’m really not sure why I got kicked out, but prefer to think that it was because I was being a bad-ass of some sort. I was told I had to leave for liability reasons. It’s a little hard to believe that at seventy years old, and while peacefully sitting on my ass, I was still the greatest liability in town. Pretty good braggin’ rights when, even in Mancos “Where the West Still Lives”, and even during burrofest, surrounded by unruly asses, I was still the most dangerous hombre in town.
 
