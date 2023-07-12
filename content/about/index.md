@@ -6,8 +6,6 @@ eleventyNavigation:
 ---
 # About Me
 
-{% image "./paco-in-shirt.jpg", "Cowboy riding donkey with small dog in shirt" %}
-
 Dropping out of high school to pursue his cowboy dreams, Jim Duke eventually bull-shitted his way into the University of Wyoming and University of Texas before finally receiving a BS in Zoology and an MS in Range Ecology from Colorado State University. Having designed his life around critters, Duke has worked on farms and ranches as well as dude ranches and hunting camps off and on since his early teenage years.
 
 Never quite fitting in with any sort of mainstream society, his efforts to ride the interface between disparate worlds inevitably results in uniquely awkward situations and comical conflicts. Not really a cowboy but hard to describe in other terms, his critters are the one constant that he can count on and who basically guide him through life. His journey bears testimony to the notion that there are few problems in life that can’t be outrun on a fast mule.
