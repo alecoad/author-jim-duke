@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Author Jim Duke",
+	title: "Jim Duke | Author",
 	url: "https://authorjimduke.com/",
 	language: "en",
 	description: "I am writing about my experiences.",
