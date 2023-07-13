@@ -5,9 +5,7 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
-<div class="hero-image">
-    <img src="img/donkey-smoker.jpg" alt="cowboy smoking pipe on donkey">
-</div>
+{% image "../public/img/donkey-smoker.jpg", "cowboy smoking pipe on donkey" %}
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
