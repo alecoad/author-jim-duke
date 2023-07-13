@@ -1,6 +1,6 @@
 ---
 title: Privileged
-description: This is a post on My Blog about touchpoints and circling wagons.
+description: I have led a very privileged life...
 date: 2023-07-12
 ---
 I have led a very privileged life. Not privileged in the sense of wealth or social status, even though did have a secure and loving upbringing and have never wanted for much. But I’ve never been either rich nor poor and wouldn’t want to be either, although I believe that, with my tendencies toward excess, I’d have dealt with poverty better than with wealth. My life has been privileged in that I have almost always been able to choose where and how I wanted to live. In other words, I have practically never had to pursue a career or design my life around trying to make a living.
