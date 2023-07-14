@@ -274,6 +274,16 @@ h2 + .header-anchor {
 	font-size: 1.5em;
 }
 
+/* Poem styles */
+.poem-title, .poem {
+	text-align: center;
+}
+
+.poem-title {
+	font-size: 1.25em;
+	font-weight: 700;
+}
+
 /* Mobile nav styles in case more links are added!
 @media all and (max-width: 768px) {	
 	header {
