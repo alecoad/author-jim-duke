@@ -1,5 +1,5 @@
 ---
-title: Through the Looking Ass
+title: Through the Looking Ass [Video]
 description: A poem by Jim Duke
 date: 2023-07-13
 ---
