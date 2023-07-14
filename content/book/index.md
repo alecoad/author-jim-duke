@@ -10,8 +10,8 @@ eleventyNavigation:
 
 ## Buy the Book
 
-- [Amazon](https://www.amazon.com/dp/B0C4BQZF9V)
-- [Barnes & Noble](https://www.barnesandnoble.com/w/dances-with-donkeys-jim-duke/1143600981)
+- <a href="https://www.amazon.com/dp/B0C4BQZF9V" target="_blank">Amazon</a>
+- <a href="https://www.barnesandnoble.com/w/dances-with-donkeys-jim-duke/1143600981" target="_blank">Barnes & Noble</a>
 
 ### Dances with Donkeys
 
