@@ -10,6 +10,10 @@
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 
+		{#- Favicon links -#}
+		<link rel="icon" href="/img/favicon/favicon.ico" sizes="32x32">
+		<link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
 		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
 
@@ -54,9 +58,7 @@
 			{{ content | safe }}
 		</main>
 
-		<footer>
-			<a href="https://www.freepik.com/icon/donkey_6138328" class="icon-attribute">Icon by DinosoftLabs</a>
-		</footer>
+		<footer></footer>
 
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
