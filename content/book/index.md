@@ -26,3 +26,5 @@ Follow a journey guided largely by the age-old union of humans and equines and f
 From his days of riding pigs in high school, follow this high school drop-out through his cowboy years, college years, and career years all intertwined with and guided by his equine friends. Having lived only in places where he can see his mules from the house and where he can piss off the porch since his early twenties, the author has basically shaped his life around his animals’ needs which seem to dovetail well with his own needs. For Duke, a mule’s abilities as a beast of burden are merely minor aspects of the true value of this noble companion.
 
 These tales are not always about equines but generally involve interactions with some sort of critters leading a willing thrill seeker astray. After all, how does one wind up hauling dozens of chickens and pounds of psilocybin mushrooms across Texas in a small sedan? Why were there shit covered, rotting cowhides on a downtown Fort Collins business rooftop? Who smuggles skunks on airlines? Read *DANCING WITH DONKEYS* and find out.
+
+{% image "./jim-kissing-jorge.jpg", "Man kissing donkey" %}
