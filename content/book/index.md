@@ -27,4 +27,4 @@ From his days of riding pigs in high school, follow this high school drop-out th
 
 These tales are not always about equines but generally involve interactions with some sort of critters leading a willing thrill seeker astray. After all, how does one wind up hauling dozens of chickens and pounds of psilocybin mushrooms across Texas in a small sedan? Why were there shit covered, rotting cowhides on a downtown Fort Collins business rooftop? Who smuggles skunks on airlines? Read *DANCING WITH DONKEYS* and find out.
 
-{% image "./jim-kissing-jorge.jpg", "Man kissing donkey" %}
+{% image "./jim-kissing-jorge-cropped.jpg", "Man kissing donkey" %}
