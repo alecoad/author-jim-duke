@@ -289,14 +289,6 @@ h2 + .header-anchor {
 	text-decoration: none;
 }
 
-/* Footer styles */
-footer {
-	margin-top: 0.5em;
-	padding-left: 1rem;
-	padding-bottom: 4em;
-	border-top: 1px dashed var(--color-gray-20);
-}
-
 /* Footer styles
 footer {
 	font-size: 0.75em;
