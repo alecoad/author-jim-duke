@@ -24,3 +24,15 @@ During her later years, mom had developed a practice of arranging family reunion
 When mom died, my sisters planned a big family vacation along the same route through the Dakotas to the Rockies that we had traveled many times as a family, and finally ending at the family cabin in Allenspark, Colorado. Starting in Ames, Iowa, where most of us were born, the plan was to spread some of her ashes at each stop along the way until we reached the cabin where we had left most of her ashes. At our first planned spreading of ashes at Lake Laverne on the campus of Iowa State, sister Cathy discovered that she had lost the ashes. Terribly distraught and tormenting herself, she couldn't give up on her search and self-reprisal. When I suddenly began laughing at the situation, she became angry with me for taking it so lightly. But then I explained the humor of the situation. She had done it again! Mom had gotten us all together for one more big family adventure and then ditched us at the last minute! Even in death she still didn't want to travel with us all together.
 
 Back at the cabin, we spread the rest of her ashes on a favorite viewpoint on Olive Ridge above the Fox Creek pools where my dad's ashes also reside. It was snowing as we hiked her ashes up to their favorite spot where she joined our father in silence. Little was said and even our footsteps were muffled by the fresh snow.
+
+| {% image "./niagra-honeymoon.jpg", "man and woman smiling at each other" %} | 
+|:--:| 
+| *Honeymoon* |
+
+| {% image "./professor-freds-overlook.jpg", "people gathered on overlook in mountains" %} |
+|:--:|
+| *This overlook was my parents favorite spot and is where both their ashes are spread.* |
+
+|{% image "./jim-at-june-memorial.jpg", "cowboy in snow" %} |
+|:--:|
+| *The memorial* |
