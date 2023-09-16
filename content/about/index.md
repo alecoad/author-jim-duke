@@ -17,3 +17,9 @@ Never quite fitting in with any sort of mainstream society, his efforts to ride 
 <a href="mailto:authorjimduke@gmail.com" target="_blank" id="email">authorjimduke@gmail.com</a>
 
 ######
+
+<form name="contact" method="POST" netlify>
+  <label for="email">Subscribe to the email list:</label>
+  <input type="email" placeholder="Email address" name="email" class="email-input" required>
+  <button type="submit">Send</button>
+</form>
