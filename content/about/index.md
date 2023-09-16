@@ -16,11 +16,10 @@ Never quite fitting in with any sort of mainstream society, his efforts to ride 
 
 <a href="mailto:authorjimduke@gmail.com" target="_blank" id="email">authorjimduke@gmail.com</a>
 
-######
+### Subscribe to the email list!
 
 <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
-  <label for="email">Subscribe to the email list:</label>
   <input type="email" placeholder="Email address" name="email" class="email-input" required>
   <div data-netlify-recaptcha="true"></div>
-  <button type="submit">Send</button>
+  <button type="submit" class="submit-button">Send</button>
 </form>
