@@ -277,7 +277,7 @@ h2 + .header-anchor {
 /* Form styles */
 .signup-header {
 	border-top: 1px dashed var(--color-gray-20);
-	padding-top: 1em;
+	padding-top: 0.75em;
 }
 
 .hidden-honeypot {
