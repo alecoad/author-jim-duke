@@ -20,6 +20,13 @@ numberOfLatestPostsToShow: 3
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
 
+<h3 class="signup-header">Sign up for email notifications about new blog posts!</h3>
+<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" class="signup-form">
+	<input name="bot-field" class="hidden-honeypot"/>
+	<input type="email" placeholder="Email address" name="email" class="email-input" required>
+	<button type="submit" class="submit-button">Subscribe</button>
+</form>
+
 {# List every content page in the project #}
 {#
 <ul>

@@ -274,6 +274,34 @@ h2 + .header-anchor {
 	font-size: 1.5em;
 }
 
+/* Form styles */
+.signup-header {
+	border-top: 1px dashed var(--color-gray-20);
+	padding-top: 1em;
+}
+
+.hidden-honeypot {
+	display: none;
+}
+
+.signup-form {
+	padding-bottom: 4em;
+}
+
+.email-input, .submit-button {
+	font-size: 0.9em;
+	padding: 0.5em;
+}
+
+.email-input {
+	width: 50%;
+	margin-right: 0.5em;
+}
+
+.submit-button {
+	min-width: 30%;
+}
+
 /* Poem styles */
 .poem-title, .poem {
 	text-align: center;
