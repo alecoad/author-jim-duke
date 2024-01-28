@@ -26,3 +26,7 @@ To ensure a pleasant and productive hereafter, bodies will (by previous arrangem
 Sure, hang out and play with your grandchildren while it's still fun for everyone, but let's skip the years of having oatmeal drizzle wiped off our stubbly chins and being hugged by total strangers calling us grandpa. X-Games are OK the way they are I suppose, but they could be a whole lot better for everyone if they attracted the appropriate age group.
 
 Practicing what he preaches, Duke, at age 70, recently adopted a three-year-old wild mustang from the Mesa Verde herd and plans to be racing across the Utah deserts before the snow melts in the Colorado high country.
+
+| {% image "./hopi.jpg", "mustang" %} | 
+|:--:| 
+| *New mustang Hopi* |
