@@ -1,6 +1,6 @@
 ---
 title: AADDUU and Talking to Bugs
-description: dult Attention Deficit Disorder Undiagnosed Untreated. Yes, I do talk to bugs...
+description: Adult Attention Deficit Disorder Undiagnosed Untreated. Yes, I do talk to bugs...
 date: 2024-02-17
 ---
 Adult Attention Deficit Disorder Undiagnosed Untreated. Yes, I do talk to bugs. More than that, I communicate with them. We all do. CO2 attracts mosquitos, many things; smoke, DEET, the sound of a slap, will repel mosquitos. Simply stimulus/response, you say. What is conversation? I ask. It's easily argued that I communicate more effectively with many insects than most of us communicate with our own spouses and children. I can often influence the behavior of insects. I'll explain this, but you may have to listen differently.
