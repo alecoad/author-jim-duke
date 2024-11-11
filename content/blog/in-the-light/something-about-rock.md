@@ -3,8 +3,6 @@ title: In the Light of the Morning Sun
 description: The angle and intensity of the early morning sun illuminates many tiny objects otherwise not visible to the human eye...
 date: 2024-10-31
 ---
-In the Light of the Morning Sun
-
 The angle and intensity of the early morning sun illuminates many tiny objects otherwise not visible to the human eye. I was walking through a cottonwood grove along a creek in early October when I noticed an unusually thick hatch of some sort of tiny flying insects. Considering how thick they were, I was surprised by how suddenly they seemed to appear in the dappled sunlight filtering through the golden fall leaves. One second, they didn't seem to exist, the next second they were so dense that I instinctively kept my mouth shut to avoid inhaling them.
 
 Turning about, I realized that their visibility depended on my angle to the morning sun. With my back to the sun, as it had been when I started my walk, they completely disappeared. When I turned to face the sun, their tiny wings were illuminated with a bright radiance, but too small to be readily identified. They appeared to be tiny specks of fluff floating randomly about until closer inspection showed them to be moving independently of each other on hovering wings. It was the thickest hatch of the tiniest bugs I've ever seen. I estimated their density at 10-12 bugs per cubic foot.
