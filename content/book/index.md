@@ -10,7 +10,8 @@ eleventyNavigation:
 
 ## Buy the Book
 
-- <a href="https://www.amazon.com/dp/B0C4BQZF9V" target="_blank">Amazon</a>
+- <a href="https://read.amazon.com/kp/embed?asin=B0D7FQ6VQG&preview=newtab&linkCode=kpe&ref_=kip_embed_taf_preview_XRPT21P9Y7YH1HFZ22GK" target="_blank">Amazon</a>
+- <a href="https://a.co/d/3DheKUu" target="_blank">Amazon 2</a>
 - <a href="https://www.barnesandnoble.com/w/dances-with-donkeys-jim-duke/1143600981" target="_blank">Barnes & Noble</a>
 
 ### Dances with Donkeys
