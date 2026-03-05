@@ -6,6 +6,9 @@
 		<title>{{ title or metadata.title }}</title>
 		<meta name="description" content="{{ description or metadata.description }}">
 
+		{#- Netlify Identity widget for Decap CMS authentication #}
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 		{#- Atom and JSON feeds included by default #}
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
@@ -60,6 +63,19 @@
 		</main>
 
 		<footer></footer>
+
+		{#- Redirect to /admin/ after Netlify Identity login #}
+		<script>
+		if (window.netlifyIdentity) {
+			window.netlifyIdentity.on("init", user => {
+			if (!user) {
+				window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
+				});
+			}
+			});
+		}
+		</script>
 
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
